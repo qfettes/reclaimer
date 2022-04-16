@@ -1,0 +1,181 @@
+[2021-06-30 23:36:53,362] cci-lambda2/INFO/locust.main: Run time limit set to 60 seconds
+[2021-06-30 23:36:53,362] cci-lambda2/INFO/locust.main: Starting Locust 1.0.2
+[2021-06-30 23:36:53,363] cci-lambda2/INFO/locust.runners: Hatching and swarming 110 users at the rate 1 users/s (0 users already running)...
+[2021-06-30 23:37:50,041] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:37:52,882] cci-lambda2/INFO/locust.main: Time limit reached. Stopping Locust.
+[2021-06-30 23:37:52,886] cci-lambda2/INFO/locust.main: Shutting down (exit code 1), bye.
+[2021-06-30 23:37:52,886] cci-lambda2/INFO/locust.main: Cleaning up runner...
+[2021-06-30 23:37:52,886] cci-lambda2/INFO/locust.main: Running teardowns...
+[2021-06-30 23:38:24,457] cci-lambda2/INFO/locust.main: Run time limit set to 1200 seconds
+[2021-06-30 23:38:24,458] cci-lambda2/INFO/locust.main: Starting Locust 1.0.2
+[2021-06-30 23:38:24,458] cci-lambda2/INFO/locust.runners: Hatching and swarming 110 users at the rate 1 users/s (0 users already running)...
+[2021-06-30 23:39:01,343] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:39:39,132] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:39:44,476] cci-lambda2/WARNING/root: Loadgen CPU usage above 90%! This may constrain your throughput and may even give inconsistent response time measurements! See https://docs.locust.io/en/stable/running-locust-distributed.html for how to distribute the load over multiple CPU cores or machines
+[2021-06-30 23:40:13,677] cci-lambda2/INFO/locust.runners: All users hatched: SocialMediaUser: 110 (0 already running)
+[2021-06-30 23:40:22,536] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:40:29,001] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:40:30,399] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:40:32,076] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:40:51,237] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:41:11,418] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:41:16,497] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:41:24,871] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:41:28,895] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:41:44,663] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:42:53,908] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:42:58,492] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:44:05,818] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:44:08,026] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:44:40,875] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:44:48,583] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:45:06,016] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:45:25,408] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:45:38,328] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:46:12,485] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:00,730] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:17,853] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:29,909] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:32,183] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:38,518] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:47:39,881] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:48:18,857] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:48:48,161] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:48:59,845] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:16,016] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:21,408] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:32,671] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:42,700] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:46,649] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:49:49,595] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:50:09,083] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:50:15,174] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:50:42,161] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:51:07,017] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:51:20,327] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:51:26,250] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:51:57,127] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:52:23,331] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:52:24,057] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:52:30,361] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:52:34,816] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:52:49,098] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:05,819] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:22,903] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:36,253] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:39,153] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:51,232] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:54,320] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:53:54,874] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:16,527] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:31,177] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:37,264] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:40,650] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:41,787] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:43,060] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:48,411] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:58,905] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:54:59,277] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:55:19,607] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:55:36,020] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:55:42,431] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:56:15,637] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:56:19,522] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:56:45,687] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:56:53,910] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:19,434] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:20,974] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:30,749] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:31,543] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:33,181] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:51,679] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:57:52,340] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:58:16,521] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:58:21,386] cci-lambda2/WARNING/root: compose_post resp.status = 400, text=Incomplete arguments
+
+[2021-06-30 23:58:23,987] cci-lambda2/INFO/locust.main: Time limit reached. Stopping Locust.
+[2021-06-30 23:58:24,008] cci-lambda2/WARNING/locust.runners: Loadgen CPU usage was too high at some point during the test! See https://docs.locust.io/en/stable/running-locust-distributed.html for how to distribute the load over multiple CPU cores or machines
+[2021-06-30 23:58:24,008] cci-lambda2/INFO/locust.main: Shutting down (exit code 1), bye.
+[2021-06-30 23:58:24,008] cci-lambda2/INFO/locust.main: Cleaning up runner...
+[2021-06-30 23:58:24,008] cci-lambda2/INFO/locust.main: Running teardowns...

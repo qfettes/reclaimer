@@ -1,0 +1,5 @@
+"Type","Name","Request Count","Failure Count","Median Response Time","Average Response Time","Min Response Time","Max Response Time","Average Content Size","Requests/s","Failures/s","50%","66%","75%","80%","90%","95%","98%","99%","99.9%","99.99%","99.999%","100%"
+"POST","compose_post",16811,41,6,6,1,48,24,14.02,0.03,6,7,7,7,8,9,9,10,14,44,49,49
+"GET","read_home_line",268385,0,5,5,1,18,6800,223.75,0.00,5,6,6,6,7,7,8,9,11,14,17,19
+"GET","read_user_timeline",50451,0,4,4,2,26,1494,42.06,0.00,4,4,5,5,6,6,7,8,10,20,27,27
+"None","Aggregated",335647,41,5,5,1,48,5663,279.82,0.03,5,6,6,6,7,7,8,9,11,16,40,49

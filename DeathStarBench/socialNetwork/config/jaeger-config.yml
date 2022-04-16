@@ -1,0 +1,9 @@
+disabled: True
+reporter:
+  logSpans: false
+  localAgentHostPort: "jaeger-agent:6831"
+  queueSize: 1
+  bufferFlushInterval: 10000000
+sampler:
+  type: "probabalistic"
+  param: 0.00001

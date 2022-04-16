@@ -1,0 +1,21 @@
+# Byte-compiled / optmized / DLL files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ipython Checkpoints
+.ipynb_checkpoints/
+
+#VSCode Meta
+.vscode/
+
+#linting
+.mypy_cache/
+
+# results
+results/train/
+runs/
+unittests/saved_model/
+
+# output directory
+output/

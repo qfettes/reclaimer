@@ -1,0 +1,106 @@
+{
+    "nodes": {
+        "cci-lambda2": {
+            "cpus": 80,
+            "ip_addr": "127.0.0.1",
+            "label": "type=data"
+        }
+    },
+    "replica_cpus": 4,
+    "scalable_service": [
+        "frontend",
+        "search"
+    ],
+    "service": {
+        "frontend": {
+            "cpus": 12,
+            "max_cpus": 12,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "memcached-profile": {
+            "cpus": 2,
+            "max_cpus": 2,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "memcached-rate": {
+            "cpus": 2,
+            "max_cpus": 2,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "memcached-reserve": {
+            "cpus": 2,
+            "max_cpus": 2,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "mongodb-profile": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "mongodb-rate": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "mongodb-recommendation": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "mongodb-reservation": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "mongodb-user": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "profile": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "rate": {
+            "cpus": 6,
+            "max_cpus": 4,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "recommendation": {
+            "cpus": 4,
+            "max_cpus": 4,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "reservation": {
+            "cpus": 6,
+            "max_cpus": 6,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "search": {
+            "cpus": 8,
+            "max_cpus": 8,
+            "max_replica": 1,
+            "replica": 1
+        },
+        "user": {
+            "cpus": 4,
+            "max_cpus": 4,
+            "max_replica": 1,
+            "replica": 1
+        }
+    }
+}
